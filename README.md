@@ -1,12 +1,14 @@
-## Hi there 👋
+## 🙋 Hello
 
-> **Hey 👋 我是 HUI**  
-> 一名Python开发工程师，5 年经验，常驻成都，可远程。  
-> 目前专注于「AI智能体开发」方向。
+### 🤺 About Me
+
+**Hey 👋 我是 HUI**  
+一名Python开发工程师，5 年经验，常驻成都，可远程。  
+目前专注于「AI智能体开发」方向。
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 | 分类 | 关键词 |
 |---|---|
@@ -19,13 +21,13 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuiTurn&layout=compact&theme=onedark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuiTurn&show_icons=true&theme=onedark)
 
-## 📫 联系我
+### 📫 联系我
 
 - 📧 zhengyihui@stu.mju.edu.cn
 
