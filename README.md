@@ -7,6 +7,15 @@
 
 ---
 
+### 📫 联系我
+
+- 📧 zhengyihui@stu.mju.edu.cn
+- 🌍 [Blog](https://www.cnblogs.com/HuiTurn)
+
+> 欢迎 PR 和 Issue，一起造轮子 🛠️
+
+---
+
 ### 🚀 Tech Stack
 
 | 分类 | 关键词 |
@@ -26,9 +35,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuiTurn&show_icons=true&theme=onedark)
 
-### 📫 联系我
 
-- 📧 zhengyihui@stu.mju.edu.cn
-- 🌍 [Blog](https://www.cnblogs.com/HuiTurn)
-
-> 欢迎 PR 和 Issue，一起造轮子 🛠️
