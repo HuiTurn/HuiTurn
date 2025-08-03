@@ -1,6 +1,5 @@
 ## 🙋 Hello
 
-### 🤺 About Me
 
 **Hey 👋 我是 HUI**  
 一名Python开发工程师，5 年经验，常驻成都，可远程。  
