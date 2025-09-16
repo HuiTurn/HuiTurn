@@ -12,6 +12,7 @@
 - 🌍 [Blog](https://www.cnblogs.com/HuiTurn)
 - 🔅 [Coze](https://www.coze.cn/user/3481519804911177)
 - 📧 zhengyihui@stu.mju.edu.cn
+- 🧰 [AI工具箱](https://www.aipalnet.cn)
 
 > 欢迎 PR 和 Issue，一起造轮子 🛠️
 
