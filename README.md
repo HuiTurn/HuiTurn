@@ -23,7 +23,7 @@
 
 | 分类 | 关键词 |
 |---|---|
-| **Backend** | Python • FastAPI • Django • Celery |
+| **Backend** | Python • FastAPI • Django • Celery • LangChain  |
 | **Crawler** | Scrapy • Playwright • selenium |
 | **Data** | Pandas • ECharts |
 | **Frontend** | Vue 3 • React • TypeScript |
