@@ -2,15 +2,14 @@
 
 
 **Hey 👋 我是 HUI**  
-一名Python开发工程师，6 年经验，常驻成都，可远程。  
-目前专注于「AI应用开发」方向。
+一名FED工程师，8 年工作经验，常驻成都，可远程。  
+目前专注于「AGENT开发」方向。
 
 ---
 
 ### 📫 联系我
 
 - 🌍 [Blog](https://www.cnblogs.com/HuiTurn)
-- 🔅 [Coze](https://www.coze.cn/user/3481519804911177)
 - 🧰 [AI工具箱](https://www.aipalnet.cn)
 - 📧 zhengyihui@stu.mju.edu.cn
 
